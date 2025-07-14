@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "isbn": "9780735211292",
+        "tags": [
+            "self-help",
+            "psychology",
+            "productivity"
+        ]
+    },
+    {
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt, David Thomas",
+        "isbn": "9780201616224",
+        "tags": [
+            "software engineering",
+            "programming",
+            "career"
+        ]
+    }
+]
